@@ -1,0 +1,17 @@
+[
+{ "url":"samples/ fight_kicks.wav","type":"audio","bank":"samples","n":0},
+{ "url":"samples/ gong+footsteps.wav","type":"audio","bank":"samples","n":1},
+{ "url":"samples/ gong+steps.wav","type":"audio","bank":"samples","n":2},
+{ "url":"samples/gang_long-accend.wav","type":"audio","bank":"samples","n":3},
+{ "url":"samples/gunload.wav","type":"audio","bank":"samples","n":4},
+{ "url":"samples/kicked.wav","type":"audio","bank":"samples","n":5},
+{ "url":"samples/optic.wav","type":"audio","bank":"samples","n":6},
+{ "url":"samples/punch.wav","type":"audio","bank":"samples","n":7},
+{ "url":"samples/scifi.wav","type":"audio","bank":"samples","n":8},
+{ "url":"samples/splash+gong.wav","type":"audio","bank":"samples","n":9},
+{ "url":"samples/splash.wav","type":"audio","bank":"samples","n":10},
+{ "url":"samples/splash_echo.wav","type":"audio","bank":"samples","n":11},
+{ "url":"samples/suspicious.wav","type":"audio","bank":"samples","n":12},
+{ "url":"samples/sword.wav","type":"audio","bank":"samples","n":13},
+{ "url":"samples/twist.wav","type":"audio","bank":"samples","n":14}
+]
