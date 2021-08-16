@@ -1,8 +1,8 @@
 [
 { "url":"scnFight/fight_kicks.wav","type":"audio","bank":"scnFight","n":0},
-{ "url":"scnFight/gong+footsteps.wav","type":"audio","bank":"scnFight","n":1},
-{ "url":"scnFight/gong+steps.wav","type":"audio","bank":"scnFight","n":2},
-{ "url":"scnFight/gang_long-accend.wav","type":"audio","bank":"scnFight","n":3},
+{ "url":"scnFight/gang_long-accend.wav","type":"audio","bank":"scnFight","n":1},
+{ "url":"scnFight/gong+footsteps.wav","type":"audio","bank":"scnFight","n":2},
+{ "url":"scnFight/gong+steps.wav","type":"audio","bank":"scnFight","n":3},
 { "url":"scnFight/gunload.wav","type":"audio","bank":"scnFight","n":4},
 { "url":"scnFight/kicked.wav","type":"audio","bank":"scnFight","n":5},
 { "url":"scnFight/optic.wav","type":"audio","bank":"scnFight","n":6},
